@@ -6,10 +6,12 @@ Java, Spring, DB, CS, 네트워크, OS 관련 면접 질문 모음입니다.
 
 | 분류 | 링크 |
 |------|------|
-| CS (자료구조, 알고리즘) | [cs/questions.md](cs/questions.md) |
-| Java | [java/questions.md](java/questions.md) |
-| Spring | [spring/questions.md](spring/questions.md) |
-| 데이터베이스 (DB) | [db/questions.md](db/questions.md) |
-| 네트워크 | [network/questions.md](network/questions.md) |
-| 운영체제 (OS) | [os/questions.md](os/questions.md) |
-| 기타 (AI, 공통) | [etc/questions.md](etc/questions.md) |
+| AI 활용 능력 / 관련 지식 | [ai/questions.md](ai/questions.md) |
+| Java (순수 자바) | [java/questions.md](java/questions.md) |
+| Web | [web/questions.md](web/questions.md) |
+| Spring / Spring Boot | [spring/questions.md](spring/questions.md) |
+| SW공학 | [sw-engineering/questions.md](sw-engineering/questions.md) |
+| DB | [db/questions.md](db/questions.md) |
+| 자료구조 | [data-structure/questions.md](data-structure/questions.md) |
+| CS | [cs/questions.md](cs/questions.md) |
+| 시스템/기능 설계 문제 | [system-design/questions.md](system-design/questions.md) |
